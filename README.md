@@ -1,63 +1,8 @@
-# Presentation Controller with Hand Gestures
-
-This is an open-source project for controlling presentations using hand gestures. With this application, you can navigate through slides, draw on the slides, and erase drawings using hand movements captured by your webcam.
-
-## Features
-
-- **Slide Navigation:** Move to the next or previous slide by lifting your left or right hand above a predefined line on the screen.
-- 
-<br><br>
-<div align="right">
-    <img src="https://github.com/T-adnane/presentation-controller/assets/115072337/de2a645a-2e4c-4fa6-8382-ecbc50512ad7" width="500" alt="left">
-    <img src="https://github.com/T-adnane/presentation-controller/assets/115072337/672cccea-1929-42b5-8e25-070eb1c7cc3a" width="500" alt="right">
-</div>
-<br><br><br><br><br><br>
-
-- **Pointer Mode:** Use the index and middle fingers of your right hand to control a pointer on the slide.
-  
-<br><br>
-
-<div align="right">
-    <img src="https://github.com/T-adnane/presentation-controller/assets/115072337/04dc6674-4bb5-4440-8f2c-e9026a119d11" width="600" alt="pointer">
-</div>
-
-<br><br><br><br><br><br>
-
-- **Drawing Mode:** Activate drawing mode by lifting only the index finger of your right hand. You can draw on the slide using your index finger as a virtual pen.
-
-<br><br>
-
-<div align="right">
-    <img src="https://github.com/T-adnane/presentation-controller/assets/115072337/fd97b3ec-f230-4b0d-8818-26cbf66bfc64" width="600" alt="drawing">
-</div>
-
-<br><br><br><br><br><br>
-
-- **Eraser:** Close your right hand to delete the last drawn stroke on the slide.
-
-<br><br>
-
-<div align="right">
-    <img src="https://github.com/T-adnane/presentation-controller/assets/115072337/bca020fb-7b48-4381-96bc-7dab55bcf984" width="600" alt="delete">
-</div>
-
-<br><br><br><br><br><br> 
-
-## Requirements
-
-- Python 3
-- OpenCV
-- Mediapipe
-- NumPy
-
-## Usage
-
-1. Launch the application.
-2. Position yourself in front of your webcam.
-3. Lift your left or right hand above the predefined line to navigate between slides.
-4. Use your right hand to control the pointer or draw on the slide according to the gestures described above.
-5. To exit the application, press 'q' on your keyboard.
-
-## Contributing
-
-Contributions are welcome! If you have any suggestions, improvements, or feature requests, please open an issue or submit a pull request.
+![1](https://github.com/T-adnane/presentation-controller/assets/115072337/5e0a9395-9169-46c7-b4b1-5bbdc117093a)
+![2](https://github.com/T-adnane/presentation-controller/assets/115072337/8bcdce68-4175-4deb-b4a4-3a6c107f3f0f)
+![3](https://github.com/T-adnane/presentation-controller/assets/115072337/80080ff8-4fb3-403d-9cfc-bfaa5b5844f3)
+![4](https://github.com/T-adnane/presentation-controller/assets/115072337/aef652cb-f36f-49a7-af99-05a5734536e1)
+![5](https://github.com/T-adnane/presentation-controller/assets/115072337/acad3889-c90b-412a-a445-3ad9216c4e9d)
+![6](https://github.com/T-adnane/presentation-controller/assets/115072337/e44fda99-758b-42ea-8731-63f659512884)
+![7](https://github.com/T-adnane/presentation-controller/assets/115072337/c92275c8-3337-4f6a-9e25-9f7177208b5e)
+![8](https://github.com/T-adnane/presentation-controller/assets/115072337/cda527f9-b3fe-404a-85c9-ea48647364bc)
